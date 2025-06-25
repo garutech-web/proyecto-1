@@ -1,4 +1,4 @@
-// dfsdfsdfsfd
-let nombre = 42 ;
 
+
+let nombre = 42 ;
 console.log(nombre); 
